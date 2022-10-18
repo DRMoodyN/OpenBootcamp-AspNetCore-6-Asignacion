@@ -12,7 +12,7 @@ using UnivercityApiBackend.DataAccess.Context;
 namespace UnivercityApiBackend.DataAccess.Migrations
 {
     [DbContext(typeof(UniverstityDbContext))]
-    [Migration("20221017234914_Initial")]
+    [Migration("20221018001618_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

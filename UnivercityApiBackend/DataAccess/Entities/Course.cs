@@ -13,9 +13,10 @@ namespace UnivercityApiBackend.DataAccess.Entities
         [Required]
         public string DescriptionLarga { get; set; } = string.Empty;
 
-        [Required]
+        [Required, StringLength(280, ErrorMessage = "100 Caracters max")]
         public string Objectivo { get; set; } = string.Empty;
-        [Required]
+
+        [Required, StringLength(280, ErrorMessage = "100 Caracters max")]
         public string Requisitos { get; set; } = string.Empty;
 
         public NivelCurso NivelCurso { get; set; }
