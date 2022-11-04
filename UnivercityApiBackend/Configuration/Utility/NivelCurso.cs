@@ -4,6 +4,6 @@ namespace UnivercityApiBackend.Configuration.Utility
 {
     public enum NivelCurso
     {
-        Basico = 1, Intermedio = 3, Avanzado = 4
+        Basico = 1, Intermedio = 2, Avanzado = 3, Expert = 4
     }
 }

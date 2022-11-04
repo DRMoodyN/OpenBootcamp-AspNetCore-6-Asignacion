@@ -8,11 +8,12 @@ namespace UnivercityApiBackend.DataAccess.Entities
         [Required]
         [Key]
         public int BaseEntityId { get; set; }
-        public string CreateBy { get; set; } = string.Empty;
+        public int UserId { get; set; }
+        public virtual User CreateBy { get; set; } = new User();
         public DateTime CreateAt { get; set; } = DateTime.Now;
-        public string UpdteBy { get; set; } = string.Empty;
+        public User UpdteBy { get; set; } = new User();
         public DateTime UpdteAt { get; set; } = DateTime.Now;
-        public string UpdateBy { get; set; } = string.Empty;
+        public User UpdateBy { get; set; } = new User();
         public DateTime DeleteAt { get; set; } = DateTime.Now;
         public bool IsDelete { get; set; } = true;
     }
