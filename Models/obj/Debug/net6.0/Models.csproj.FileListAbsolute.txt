@@ -1,0 +1,5 @@
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
