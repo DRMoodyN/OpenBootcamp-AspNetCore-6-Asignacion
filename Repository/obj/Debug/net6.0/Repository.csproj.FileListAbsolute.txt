@@ -1,0 +1,15 @@
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\bin\Debug\net6.0\Repository.dll
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\bin\Debug\net6.0\Models.dll
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\bin\Debug\net6.0\Models.pdb
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\Repository.dll
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Repository\obj\Debug\net6.0\ref\Repository.dll
