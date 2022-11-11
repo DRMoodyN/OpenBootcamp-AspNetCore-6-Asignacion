@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r1hX05ikt5qjPrvH0GntC02kaCUsdJmwetklTkrUfr5iyShllwTHSC2hfiHtzOD6wUvjM0yHx61jtv4Xy20Esw==",
+  "dgSpecHash": "+XWpA8bmCGhK8zbscGJscVwU08ggf2LSBdlAIJlbg4mvTKM5NVGPv0F9HyZKuBbXxyGfWj/wlMzGtsxF8Xexpg==",
   "success": true,
-  "projectFilePath": "C:\\Programming\\Net\\AspNetCore\\OpenBootcamp-Apis-Net\\UnivercityApiBackend\\UnivercityApiBackend.csproj",
+  "projectFilePath": "C:\\Programming\\Net\\AspNetCore\\WebApi\\OpenBootcamp-AspNetCore-6-Asignacion\\UnivercityApiBackend\\UnivercityApiBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David Moody\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\David Moody\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

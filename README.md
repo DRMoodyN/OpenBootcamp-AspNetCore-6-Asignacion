@@ -13,7 +13,7 @@ dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 6.0.7
 dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Desing --version 6.0.7
 dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Core --version 6.0.7
 
-dotnet ef migrations add Initial -o DataAccess/Migrations
+dotnet ef migrations add Initial 
 dotnet ef database drop --force
 dotnet ef database update
 dotnet ef migrations script

@@ -3065,6 +3065,46 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.7",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.7"
+        },
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -9062,6 +9102,21 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -9071,6 +9126,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.7",
       "Microsoft.VisualStudio.Web.CodeGeneration.Core >= 6.0.7",
+      "Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -9081,11 +9137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\Net\\AspNetCore\\OpenBootcamp-Apis-Net\\UnivercityApiBackend\\UnivercityApiBackend.csproj",
+      "projectUniqueName": "C:\\Programming\\Net\\AspNetCore\\WebApi\\OpenBootcamp-AspNetCore-6-Asignacion\\UnivercityApiBackend\\UnivercityApiBackend.csproj",
       "projectName": "UnivercityApiBackend",
-      "projectPath": "C:\\Programming\\Net\\AspNetCore\\OpenBootcamp-Apis-Net\\UnivercityApiBackend\\UnivercityApiBackend.csproj",
+      "projectPath": "C:\\Programming\\Net\\AspNetCore\\WebApi\\OpenBootcamp-AspNetCore-6-Asignacion\\UnivercityApiBackend\\UnivercityApiBackend.csproj",
       "packagesPath": "C:\\Users\\David Moody\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\Net\\AspNetCore\\OpenBootcamp-Apis-Net\\UnivercityApiBackend\\obj\\",
+      "outputPath": "C:\\Programming\\Net\\AspNetCore\\WebApi\\OpenBootcamp-AspNetCore-6-Asignacion\\UnivercityApiBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9105,7 +9161,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Programming\\Net\\AspNetCore\\WebApi\\OpenBootcamp-AspNetCore-6-Asignacion\\Services\\Services.csproj": {
+              "projectPath": "C:\\Programming\\Net\\AspNetCore\\WebApi\\OpenBootcamp-AspNetCore-6-Asignacion\\Services\\Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -9165,7 +9225,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
