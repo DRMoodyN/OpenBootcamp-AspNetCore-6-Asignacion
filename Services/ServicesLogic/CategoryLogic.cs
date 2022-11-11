@@ -9,5 +9,11 @@ namespace Services.ServicesManager
         {
             _context = context;
         }
+
+        public async Task<Category> AddAsync(Category model)
+        {
+            await _context.Categories.AddAsync(model);
+            return model;
+        }
     }
 }

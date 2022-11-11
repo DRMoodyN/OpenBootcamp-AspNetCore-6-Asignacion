@@ -1,0 +1,17 @@
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\bin\Debug\net6.0\Services.deps.json
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\bin\Debug\net6.0\Services.dll
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\bin\Debug\net6.0\Services.pdb
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\bin\Debug\net6.0\Models.dll
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\bin\Debug\net6.0\Repository.dll
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\bin\Debug\net6.0\Repository.pdb
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\bin\Debug\net6.0\Models.pdb
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\Services.dll
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\Services.pdb
+C:\Programming\Net\AspNetCore\WebApi\OpenBootcamp-AspNetCore-6-Asignacion\Services\obj\Debug\net6.0\ref\Services.dll
